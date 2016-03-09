@@ -1,0 +1,9 @@
+//////////////////////////////////
+/*Hello this is a test txt!*/
+use the vim:
+1.new files,vim filename;
+2.insert edit the file;
+3.esc command mod and save
+4.others.
+/////////////////////////////////
+changes !
