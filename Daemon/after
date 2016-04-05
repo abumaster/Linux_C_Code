@@ -1,0 +1,111 @@
+ PPID   PID  PGID   SID TTY      TPGID STAT   UID   TIME COMMAND
+    0     1     1     1 ?           -1 Ss       0   0:00 /usr/lib/systemd/systemd --switched-root --system --deserialize 22
+    0     2     0     0 ?           -1 S        0   0:00 [kthreadd]
+    2     3     0     0 ?           -1 S        0   0:00 [ksoftirqd/0]
+    2     5     0     0 ?           -1 S<       0   0:00 [kworker/0:0H]
+    2     7     0     0 ?           -1 S        0   0:00 [migration/0]
+    2     8     0     0 ?           -1 S        0   0:00 [rcu_bh]
+    2     9     0     0 ?           -1 S        0   0:00 [rcuob/0]
+    2    10     0     0 ?           -1 S        0   0:00 [rcuob/1]
+    2    11     0     0 ?           -1 S        0   0:00 [rcuob/2]
+    2    12     0     0 ?           -1 S        0   0:00 [rcuob/3]
+    2    13     0     0 ?           -1 S        0   0:00 [rcuob/4]
+    2    14     0     0 ?           -1 S        0   0:00 [rcuob/5]
+    2    15     0     0 ?           -1 S        0   0:00 [rcuob/6]
+    2    16     0     0 ?           -1 S        0   0:00 [rcuob/7]
+    2    17     0     0 ?           -1 S        0   0:00 [rcuob/8]
+    2    18     0     0 ?           -1 S        0   0:00 [rcuob/9]
+    2    19     0     0 ?           -1 S        0   0:00 [rcuob/10]
+    2    20     0     0 ?           -1 S        0   0:00 [rcuob/11]
+    2    21     0     0 ?           -1 S        0   0:00 [rcuob/12]
+    2    22     0     0 ?           -1 S        0   0:00 [rcuob/13]
+    2    23     0     0 ?           -1 S        0   0:00 [rcuob/14]
+    2    24     0     0 ?           -1 S        0   0:00 [rcu_sched]
+    2    25     0     0 ?           -1 S        0   0:00 [rcuos/0]
+    2    26     0     0 ?           -1 S        0   0:00 [rcuos/1]
+    2    27     0     0 ?           -1 S        0   0:00 [rcuos/2]
+    2    28     0     0 ?           -1 S        0   0:00 [rcuos/3]
+    2    29     0     0 ?           -1 S        0   0:00 [rcuos/4]
+    2    30     0     0 ?           -1 S        0   0:00 [rcuos/5]
+    2    31     0     0 ?           -1 S        0   0:00 [rcuos/6]
+    2    32     0     0 ?           -1 S        0   0:00 [rcuos/7]
+    2    33     0     0 ?           -1 S        0   0:00 [rcuos/8]
+    2    34     0     0 ?           -1 S        0   0:00 [rcuos/9]
+    2    35     0     0 ?           -1 S        0   0:00 [rcuos/10]
+    2    36     0     0 ?           -1 S        0   0:00 [rcuos/11]
+    2    37     0     0 ?           -1 S        0   0:00 [rcuos/12]
+    2    38     0     0 ?           -1 S        0   0:00 [rcuos/13]
+    2    39     0     0 ?           -1 S        0   0:00 [rcuos/14]
+    2    40     0     0 ?           -1 S        0   0:00 [watchdog/0]
+    2    41     0     0 ?           -1 S<       0   0:00 [khelper]
+    2    42     0     0 ?           -1 S        0   0:00 [kdevtmpfs]
+    2    43     0     0 ?           -1 S<       0   0:00 [netns]
+    2    44     0     0 ?           -1 S        0   0:00 [xenwatch]
+    2    45     0     0 ?           -1 S        0   0:00 [xenbus]
+    2    46     0     0 ?           -1 S        0   0:00 [kworker/0:1]
+    2    47     0     0 ?           -1 S<       0   0:00 [writeback]
+    2    48     0     0 ?           -1 S<       0   0:00 [kintegrityd]
+    2    49     0     0 ?           -1 S<       0   0:00 [bioset]
+    2    50     0     0 ?           -1 S<       0   0:00 [kblockd]
+    2    51     0     0 ?           -1 S        0   0:00 [khubd]
+    2    52     0     0 ?           -1 S<       0   0:00 [md]
+    2    54     0     0 ?           -1 S        0   0:00 [kswapd0]
+    2    55     0     0 ?           -1 SN       0   0:00 [ksmd]
+    2    56     0     0 ?           -1 SN       0   0:00 [khugepaged]
+    2    57     0     0 ?           -1 S        0   0:00 [fsnotify_mark]
+    2    58     0     0 ?           -1 S<       0   0:00 [crypto]
+    2    67     0     0 ?           -1 S<       0   0:00 [kthrotld]
+    2    68     0     0 ?           -1 S        0   0:00 [kworker/u30:1]
+    2    69     0     0 ?           -1 S<       0   0:00 [kmpath_rdacd]
+    2    70     0     0 ?           -1 S<       0   0:00 [kpsmoused]
+    2    89     0     0 ?           -1 S<       0   0:00 [deferwq]
+    2    90     0     0 ?           -1 S        0   0:00 [kworker/0:2]
+    2   114     0     0 ?           -1 S        0   0:00 [kauditd]
+    2   233     0     0 ?           -1 S        0   0:00 [kworker/u30:2]
+    2   236     0     0 ?           -1 S<       0   0:00 [ata_sff]
+    2   238     0     0 ?           -1 S        0   0:00 [scsi_eh_0]
+    2   239     0     0 ?           -1 S<       0   0:00 [scsi_tmf_0]
+    2   240     0     0 ?           -1 S        0   0:00 [scsi_eh_1]
+    2   241     0     0 ?           -1 S<       0   0:00 [scsi_tmf_1]
+    2   262     0     0 ?           -1 S        0   0:00 [jbd2/xvda1-8]
+    2   263     0     0 ?           -1 S<       0   0:00 [ext4-dio-unwrit]
+    1   331   331   331 ?           -1 Ss       0   0:00 /usr/lib/systemd/systemd-journald
+    1   343   343   343 ?           -1 Ss       0   0:00 /usr/sbin/lvmetad -f
+    1   345   345   345 ?           -1 Ss       0   0:00 /usr/lib/systemd/systemd-udevd
+    1   435   435   435 ?           -1 Ss      81   0:00 /bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+    1   440   440   440 ?           -1 Ss      38   0:00 /usr/sbin/ntpd -u ntp:ntp -g
+    1   443   443   443 ?           -1 Ss       0   0:00 /usr/lib/systemd/systemd-logind
+    1   446   446   446 ?           -1 Ssl      0   0:00 /usr/sbin/rsyslogd -n
+    1   450   450   450 ?           -1 Ss       0   0:00 /usr/sbin/crond -n
+    1   457   457   457 ?           -1 Ssl     28   0:00 /usr/sbin/nscd
+    1   475   475   475 tty1       475 Ss+      0   0:00 /sbin/agetty --noclear tty1 linux
+    1   785   785   785 ?           -1 Ss       0   0:00 /usr/sbin/sshd -D
+    1   800   800   800 ?           -1 Ss       0   0:00 /sbin/iprinit --daemon
+    1   802   802   802 ?           -1 Ss       0   0:00 /sbin/iprupdate --daemon
+    1   812   812   812 ?           -1 Ss       0   0:00 /sbin/iprdump --daemon
+    1   822   822   822 ?           -1 Ssl      0   0:00 /usr/local/aegis/aegis_update/AliYunDunUpdate
+    1   886   886   886 ?           -1 Ssl      0   0:00 /usr/sbin/gshelld
+    1   905   904   904 ?           -1 Sl       0   0:01 /usr/local/aegis/aegis_client/aegis_00_83/AliYunDun
+    1   923   922   922 ?           -1 Sl       0   0:00 /usr/local/aegis/alihids/AliHids
+  785   947   947   947 ?           -1 Ss       0   0:00 sshd: zgf [priv]
+  947   949   947   947 ?           -1 S     1000   0:00 sshd: zgf@pts/0
+  949   950   950   950 pts/0     1569 Ss    1000   0:00 -bash
+    2   988     0     0 ?           -1 S<       0   0:00 [kworker/0:1H]
+    1  1166  1166  1166 ?           -1 Ssl    999   0:00 /usr/lib/polkit-1/polkitd --no-debug
+    1  1219  1219  1219 ?           -1 Ss       0   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1221  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1222  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1223  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+    1  1229  1229  1229 ?           -1 Ss       0   0:00 nginx: master process ./nginx
+ 1229  1230  1229  1229 ?           -1 S       99   0:00 nginx: worker process
+    2  1265     0     0 ?           -1 S        0   0:00 [kworker/0:0]
+ 1219  1266  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1267  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1268  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1269  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1271  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1275  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+ 1219  1276  1219  1219 ?           -1 S       48   0:00 /usr/sbin/httpd -DFOREGROUND
+    1  1364  1364  1364 ?           -1 Ss      27   0:00 /bin/sh /usr/bin/mysqld_safe --basedir=/usr
+ 1364  1522  1364  1364 ?           -1 Sl      27   0:00 /usr/libexec/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib64/mysql/plugin --log-error=/var/log/mariadb/mariadb.log --pid-file=/var/run/mariadb/mariadb.pid --socket=/var/lib/mysql/mysql.sock
+  950  1569  1569   950 pts/0     1569 R+    1000   0:00 ps -axj
